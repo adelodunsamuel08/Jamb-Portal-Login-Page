@@ -1,0 +1,82 @@
+* {
+    margin: auto;
+    background-color:rgb(212, 245, 245);
+    padding-bottom: 20px;
+    align-items: center;
+}
+
+img {
+    padding: 100px;
+    margin-left: 500px;
+    background-color: rgb(212, 245, 245);
+    padding-bottom: 30px;
+}
+
+.Login {
+    margin-left: 500px;
+    width: 400px;
+    border: 2px rgb(128, 125, 125) solid;
+    padding: 30px;
+    padding-left: 15px;
+    padding-bottom: none;
+}
+
+h1 {
+    font-family: 'Calibri';
+    font-weight: lighter;
+    font-size: 30px;
+    color: rgb(75, 73, 73);
+    opacity: 0.5px;
+    padding-bottom: 20px;
+}
+
+input {
+    width: 370px;
+    background-color: white;
+    padding: 7px;
+    border: none;
+    margin-bottom: 20px;
+    padding-left: 30px;
+    font-family: 'Calibri';
+    font-size: large;
+    opacity: 0.5px;
+    
+}
+
+button {
+    background-color: blue;
+    color: white;
+    width: 400px;
+    padding: 10px;
+    border: none;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: darkblue;
+}
+
+a {
+    font-family: 'Calibri';
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+p {
+    font-family: 'Calibri';
+    color: blue;
+    text-align: center;
+}
+
+.footer {
+    font-family: 'Calibri';
+    color: green;
+    padding-bottom: 200px;
+    margin-left: 50px;
+
+}
+
